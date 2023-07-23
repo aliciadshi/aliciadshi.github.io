@@ -2555,10 +2555,12 @@ input, select, textarea {
 
 	.work-item {
 		margin: 0 0 2em 0;
+		height: 500px;
 	}
 
 		.work-item .image {
 			margin: 0 0 1.5em 0;
+			height: 450px;
 		}
 
 		.work-item h3 {
